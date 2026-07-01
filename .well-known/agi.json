@@ -40,7 +40,7 @@
   ],
   "payment": {
     "protocol": "gumroad",
-    "asset": "GBP",
+    "asset": "USD",
     "link": "https://fixseo.gumroad.com/l/vicmailer"
   }
 }
