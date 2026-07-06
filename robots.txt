@@ -1,34 +1,12 @@
-a
 User-agent: *
 Allow: /
-Disallow: /scripts/
-Disallow: /mailer/
-Disallow: /api/
-Disallow: /admin/
-Disallow: /assets/
-Disallow: /config/
-Disallow: /.well-known/
 
-# Allow major AI crawlers to index the front page only
+# Allow major AI crawlers
 User-agent: GPTBot
 Allow: /
-Disallow: /scripts/
-Disallow: /mailer/
-Disallow: /api/
-Disallow: /.well-known/
 
 User-agent: ClaudeBot
 Allow: /
-Disallow: /scripts/
-Disallow: /mailer/
-Disallow: /api/
-Disallow: /.well-known/
 
 User-agent: Google-Extended
 Allow: /
-Disallow: /scripts/
-Disallow: /mailer/
-Disallow: /api/
-Disallow: /.well-known/
-
-
